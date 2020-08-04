@@ -1,5 +1,5 @@
 
-![oie_transparent (3)](https://i.imgur.com/3oD6Ym6.png)
+![hello_transparent (3)](https://i.imgur.com/3oD6Ym6.png)
 
 <p align="left">
   Enthusiast Full Stack Engineer & CS student mainly focused on TypeScript and SRE things.
